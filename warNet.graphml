@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="longitude" attr.type="double" for="node" id="d1" />
+  <key attr.name="latitude" attr.type="double" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Turkey">
+      <data key="d0">39.0</data>
+      <data key="d1">35.0</data>
+    </node>
+    <node id="Bangladesh">
+      <data key="d0">23.8</data>
+      <data key="d1">90.3</data>
+    </node>
+    <node id="Eritrea">
+      <data key="d0">15.0</data>
+      <data key="d1">39.0</data>
+    </node>
+    <node id="Sudan">
+      <data key="d0">15.633</data>
+      <data key="d1">32.533</data>
+    </node>
+    <node id="Lebanon">
+      <data key="d0">33.833</data>
+      <data key="d1">35.833</data>
+    </node>
+    <node id="Mali">
+      <data key="d0">17.0</data>
+      <data key="d1">-4.0</data>
+    </node>
+    <node id="Mongolia">
+      <data key="d0">47.917</data>
+      <data key="d1">106.883</data>
+    </node>
+    <node id="Ethiopia">
+      <data key="d0">8.0</data>
+      <data key="d1">38.0</data>
+    </node>
+    <node id="Slovakia">
+      <data key="d0">48.667</data>
+      <data key="d1">19.5</data>
+    </node>
+    <node id="Somalia">
+      <data key="d0">10.0</data>
+      <data key="d1">49.0</data>
+    </node>
+    <node id="Peru">
+      <data key="d0">-10.0</data>
+      <data key="d1">-76.0</data>
+    </node>
+    <node id="Laos">
+      <data key="d0">18.0</data>
+      <data key="d1">105.0</data>
+    </node>
+    <node id="Bolivia">
+      <data key="d0">-16.712</data>
+      <data key="d1">-64.666</data>
+    </node>
+    <node id="Burkina Faso">
+      <data key="d0">13.0</data>
+      <data key="d1">-2.0</data>
+    </node>
+    <node id="Ecuador">
+      <data key="d0">-2.0</data>
+      <data key="d1">-77.5</data>
+    </node>
+    <node id="Manchukuo">
+      <data key="d0">43.883</data>
+      <data key="d1">125.317</data>
+    </node>
+    <node id="Israel">
+      <data key="d0">31.0</data>
+      <data key="d1">35.0</data>
+    </node>
+    <node id="Iran">
+      <data key="d0">35.683</data>
+      <data key="d1">51.417</data>
+    </node>
+    <node id="Djibouti">
+      <data key="d0">11.5</data>
+      <data key="d1">43.0</data>
+    </node>
+    <node id="China">
+      <data key="d0">39.917</data>
+      <data key="d1">116.383</data>
+    </node>
+    <node id="Chile">
+      <data key="d0">-30.0</data>
+      <data key="d1">-71.0</data>
+    </node>
+    <node id="Thailand">
+      <data key="d0">15.4</data>
+      <data key="d1">101.3</data>
+    </node>
+    <node id="Iraq">
+      <data key="d0">33.0</data>
+      <data key="d1">44.0</data>
+    </node>
+    <node id="Mauritania">
+      <data key="d0">20.0</data>
+      <data key="d1">-12.0</data>
+    </node>
+    <node id="North Korea">
+      <data key="d0">40.0</data>
+      <data key="d1">127.0</data>
+    </node>
+    <node id="Vietnam">
+      <data key="d0">16.167</data>
+      <data key="d1">107.833</data>
+    </node>
+    <node id="Cambodia">
+      <data key="d0">13.0</data>
+      <data key="d1">105.0</data>
+    </node>
+    <node id="Japan">
+      <data key="d0">35.0</data>
+      <data key="d1">136.0</data>
+    </node>
+    <node id="Syria">
+      <data key="d0">35.0</data>
+      <data key="d1">38.0</data>
+    </node>
+    <node id="Soviet Union">
+      <data key="d0">60.0</data>
+      <data key="d1">90.0</data>
+    </node>
+    <node id="Pakistan">
+      <data key="d0">30.0</data>
+      <data key="d1">70.0</data>
+    </node>
+    <node id="Angola">
+      <data key="d0">-12.5</data>
+      <data key="d1">18.5</data>
+    </node>
+    <node id="Mexico">
+      <data key="d0">23.0</data>
+      <data key="d1">-102.0</data>
+    </node>
+    <node id="South Africa">
+      <data key="d0">-30.0</data>
+      <data key="d1">25.0</data>
+    </node>
+    <node id="India">
+      <data key="d0">28.6133</data>
+      <data key="d1">77.2083</data>
+    </node>
+    <node id="Senegal">
+      <data key="d0">14.0</data>
+      <data key="d1">-14.0</data>
+    </node>
+    <node id="Paraguay">
+      <data key="d0">-23.0</data>
+      <data key="d1">-58.0</data>
+    </node>
+    <node id="Hungary">
+      <data key="d0">47.0</data>
+      <data key="d1">20.0</data>
+    </node>
+    <node id="South Korea">
+      <data key="d0">36.0</data>
+      <data key="d1">128.0</data>
+    </node>
+    <node id="United States">
+      <data key="d0">40.0</data>
+      <data key="d1">-100.0</data>
+    </node>
+    <node id="South Sudan">
+      <data key="d0">8.0</data>
+      <data key="d1">30.0</data>
+    </node>
+    <edge source="Turkey" target="Syria" />
+    <edge source="Bangladesh" target="India" />
+    <edge source="Eritrea" target="Ethiopia" />
+    <edge source="Eritrea" target="Djibouti" />
+    <edge source="Sudan" target="South Sudan" />
+    <edge source="Lebanon" target="Israel" />
+    <edge source="Mali" target="Burkina Faso" />
+    <edge source="Mongolia" target="Manchukuo" />
+    <edge source="Mongolia" target="Japan" />
+    <edge source="Mongolia" target="Soviet Union" />
+    <edge source="Ethiopia" target="Somalia" />
+    <edge source="Slovakia" target="Hungary" />
+    <edge source="Peru" target="Bolivia" />
+    <edge source="Peru" target="Ecuador" />
+    <edge source="Peru" target="Chile" />
+    <edge source="Laos" target="Thailand" />
+    <edge source="Bolivia" target="Paraguay" />
+    <edge source="Bolivia" target="Chile" />
+    <edge source="Manchukuo" target="Japan" />
+    <edge source="Manchukuo" target="Soviet Union" />
+    <edge source="Iran" target="Iraq" />
+    <edge source="China" target="Vietnam" />
+    <edge source="China" target="India" />
+    <edge source="China" target="Soviet Union" />
+    <edge source="Thailand" target="Cambodia" />
+    <edge source="Mauritania" target="Senegal" />
+    <edge source="North Korea" target="South Korea" />
+    <edge source="Japan" target="Soviet Union" />
+    <edge source="Pakistan" target="India" />
+    <edge source="Angola" target="South Africa" />
+    <edge source="Mexico" target="United States" />
+  </graph>
+</graphml>
